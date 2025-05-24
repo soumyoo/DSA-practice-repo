@@ -1,0 +1,1 @@
+cout<<occurence(arr,7,10)<<endl;
